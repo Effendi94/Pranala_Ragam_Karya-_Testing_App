@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 import 'package:testing_app/app/constants/image_constant.dart';
 import 'package:testing_app/app/helper/ui_helpers.dart';
-import 'package:testing_app/ui/shared/custom_button.dart';
 import 'package:testing_app/ui/view/startup/widgets/get_started.dart';
 
 import 'startup_viewmodel.dart';
