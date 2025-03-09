@@ -37,6 +37,7 @@ dependencies:
   stacked: ^3.4.4
   stacked_services: ^1.6.0
   stacked_hooks: ^0.2.4
+  observable_ish: ^6.0.5
 
 dev_dependencies:
   flutter_test:

@@ -1,5 +1,5 @@
 class ImageConstant {
-  static const imagePath = 'assets/images';
+  static const _imagePath = 'assets/images';
 
-  static const homeLogo = '$imagePath/home_logo.png';
+  static const homeLogo = '$_imagePath/home_logo.png';
 }
